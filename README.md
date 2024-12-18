@@ -42,6 +42,7 @@ Dataset chứa thông tin chi tiết về khách hàng và các khoản vay tín
 
 ## 3. Top 5 thành phố vay nhiều nhất và Top 5 mục đích vay
 Top 5 thành phố vay nhiều nhất:
+
 ![image](https://github.com/user-attachments/assets/9463fcd5-0a65-42bd-a446-5d54555327fc)
 
 - TP. Hồ Chí Minh dẫn đầu với tổng giá trị vay 480.5 triệu đồng, khẳng định đây là thị trường lớn nhất.
@@ -49,6 +50,7 @@ Top 5 thành phố vay nhiều nhất:
 - Thái Nguyên (218.5 triệu đồng) và Bình Dương (145 triệu đồng) cũng có nhu cầu vay đáng kể.
 
 Top 5 mục đích vay:
+
 ![image](https://github.com/user-attachments/assets/5062ca39-5df3-4b3b-81f0-81f1f8cbecd1)
 
 - 89% khách hàng không rõ mục đích vay, cho thấy việc thu thập thông tin từ khách hàng chưa hiệu quả.
@@ -59,12 +61,14 @@ Top 5 mục đích vay:
 ## 1. Tối ưu hóa kênh tiếp cận
 - Tăng ngân sách quảng cáo trên TikTok và Google Ads: Đây là hai kênh hiệu quả nhất, chiếm 48% lượng khách hàng tiếp cận. Tăng cường chiến dịch video ngắn trên TikTok, tập trung vào nội dung liên quan đến nhu cầu tài chính của nam giới và nhóm khách hàng có thu nhập không ổn định. Tuy nhiên, tuỳ vào mục đích MKT, nếu cần tăng lượng traffic, phủ sóng thương hiệu/sản phẩm thì chọn kênh Tiktok. Còn nếu muốn tăng khách hàng lead thì đẩy mạnh quảng cáo Google Ads
 - Tuỳ vào vùng miền tiếp cận - nếu là miền Bắc thì quảng cáo Google là một kênh tiếp cận hiệu quả hơn:
+  
 ![image](https://github.com/user-attachments/assets/fdd9c312-c828-476c-b25b-9c75488eaa1a)
 
 - Facebook và EDM (Email Marketing): Duy trì các chiến dịch retargeting và remarketing qua Facebook để tái tiếp cận khách hàng cũ. EDM có thể được cải thiện bằng cách cá nhân hóa nội dung dựa trên dữ liệu khách hàng.
 ## 2. Tập trung vào thời điểm chiến dịch
 - Chạy quảng cáo mạnh vào cuối tháng: Tập trung ngân sách trong tuần cuối tháng, vì đây là thời điểm nhu cầu vay cao nhất (81 hợp đồng). Đảm bảo chiến dịch đạt đến khách hàng ngay trước giai đoạn họ có nhu cầu cấp thiết.
 - Triển khai chương trình khuyến mãi để kích thích nhu cầu vay trong thời gian thấp điểm (đầu và giữa tháng), ví dụ như giảm phí dịch vụ hoặc tăng ưu đãi cho khách hàng sớm.
+  
 ![image](https://github.com/user-attachments/assets/7fcb587e-3e19-4602-99c7-39e27cc1a33b)
 
 
@@ -72,6 +76,7 @@ Top 5 mục đích vay:
 ## 3. Thông điệp quảng cáo
 - Tập trung vào nhóm khách hàng nam và nhóm tuổi trên 25: Đưa ra các thông điệp như: "Vay tiêu dùng dễ dàng, giải pháp tài chính linh hoạt cho mọi nhu cầu cuối tháng."
 - Nhu cầu tài chính cấp thiết: Đánh mạnh vào thông điệp giải quyết tài chính khẩn cấp với thời gian duyệt vay nhanh vì phần lớn khách hàng không có mục đích vay
+  
 ![image](https://github.com/user-attachments/assets/4069054b-00cf-4520-9801-fcd1d9149847)
 
 
