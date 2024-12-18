@@ -3,6 +3,10 @@
 - Công cụ sử dụng trong dự án này là Excel
 
 # Dataset
+Dataset chứa thông tin chi tiết về khách hàng và các khoản vay tín dụng của một công ty tài chính. Dưới đây là mô tả từng cột trong dữ liệu:
+![image](https://github.com/user-attachments/assets/db1f894d-d6ab-47ad-8767-78745305c685)
+
+
 
 - Phần 2: Tạo Dashboard bằng Excel + Pivot Table
 - Phần 3: Phân tích & Đưa ra khuyến nghị
